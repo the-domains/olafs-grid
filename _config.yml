@@ -1,4 +1,3 @@
-layout_spectrum: 0.26055943290703
 typography_spectrum: 0.037096266169101
 color:
   brandStrength: 0.8786153020337224
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.26055943290703
 name: Olafs Grid Page
 title: Olaf's Grid Page
+description: a first try
