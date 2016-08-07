@@ -1,0 +1,14 @@
+layout_spectrum: 0.26055943290703
+typography_spectrum: 0.037096266169101
+color:
+  brandStrength: 0.8786153020337224
+  lightness: 0.18756462167948484
+  saturation: 0.9671929299365729
+  rhythmicContrast: 0.27714820858091116
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Olafs Grid
